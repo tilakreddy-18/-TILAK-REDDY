@@ -1,0 +1,5 @@
+a = "hello, world !" 
+str = "hello, aditya!"
+
+print(a.endswith("a"))
+print(a)
